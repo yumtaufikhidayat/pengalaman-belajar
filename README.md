@@ -6,7 +6,7 @@
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 ## **20 Juni 2021**
-<br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 800%)
+<br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 80%)
 * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
 * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
 
