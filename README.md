@@ -2,7 +2,7 @@
 
 ## **27 Juni 2021**
 <br>Belajar kelas Memulai Pemrograman dengan Java.
-* Mendapatkan Seritifikat kelulusan memulai Pemrograman dengan Java
+* Mendapatkan Seritifikat kelulusan memulai Pemrograman dengan Java.
   
 ## **25 Juni 2021**
 <br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
